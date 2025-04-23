@@ -38,5 +38,5 @@ El notebook incluye el desarrollo y análisis de los siguientes temas:
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tp1-proc-img.git
+git clone https://github.com/Herr-Alva/tp1-proc-img.git
 cd tp1-proc-img
