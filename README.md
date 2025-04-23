@@ -1,6 +1,3 @@
-# TP_1_Proces_imag_Windows
-Técnicas de an{alisis de espacios de color, muestreo, cuantización y segmentación 
-
 # TP1 - Procesamiento Digital de Imágenes
 # Alvarenga de Pedro, Hernán Misael
 # Date: 04/17/2025
